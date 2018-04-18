@@ -1,0 +1,36 @@
+blockly-games (1.1.4) unstable; urgency=low
+
+  * Needed an index.html for each language
+
+ -- Scuolabook srl <info@scuolabook.it>  Thu, 5 Jan 2018 15:58:00 +0000
+
+blockly-games (1.1.3) unstable; urgency=low
+
+  * New localized version
+
+ -- Scuolabook srl <info@scuolabook.it>  Thu, 5 Jan 2018 15:58:00 +0000
+
+blockly-games (1.1.2) unstable; urgency=low
+
+  * Ballons removal allowed
+
+ -- Scuolabook srl <info@scuolabook.it>  Thu, 27 Jul 2017 15:58:00 +0000
+
+blockly-games (1.1.1) unstable; urgency=low
+
+  * Icon changed
+
+ -- Scuolabook srl <info@scuolabook.it>  Fri, 22 Mar 2016 15:58:00 +0000
+
+blockly-games (1.1) unstable; urgency=low
+
+  * Scuolabook rebranding
+
+ -- Scuolabook srl <info@scuolabook.it>  Fri, 22 Mar 2016 15:58:00 +0000
+
+blockly-games (1.0) unstable; urgency=low
+
+  * First release
+
+ -- Scuolabook srl <info@scuolabook.it>  Fri, 22 Mar 2016 15:58:00 +0000
+
